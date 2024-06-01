@@ -1,0 +1,10 @@
+title: IEEE LaunchPad Kerala
+email: harinithya995@gmail.com
+description: >- 
+  IEEE LaunchPad Kerala Newsletter.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://Nithyaharikumar.github.io" # the base hostname & protocol for your site
+github_username: Nithyaharikumar
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
